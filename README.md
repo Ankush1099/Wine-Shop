@@ -1,15 +1,15 @@
 # Online Wine Shop
 
-Context -
+Context ->
 	Imagine you are working as a Data Scientist for an Online Wine Shop named “The Wine Land”.
 	As the name suggests, the online store specializes in selling different varieties of wines.
 	The online store receives a decent amount of traffic and reviews from its users.
 	Leverage the “reviews” data and draw actionable insights from it.
 
-Expected -
+Expected ->
 	Build a predictive model for predicting the wine “variety”. 
 
-The Data Description is as follows - 
+The Data Description is as follows -> 
 •	user_name - user_name of the reviewer.
 •	country -The country that the wine is from.
 •	review_title - The title of the wine review, which often contains the vintage.
